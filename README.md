@@ -21,8 +21,8 @@ Boris Starkov: [linkedin](https://www.linkedin.com/in/boris-starkov/), [github](
 
 based on [ggwave](https://github.com/ggerganov/ggwave) library by [Georgi Gerganov](https://github.com/ggerganov) and conversational AI by [ElevenLabs](https://try.elevenlabs.io/gibberlink)
 
-## How it works
-* Two independent conversational [ElevenLabs](https://try.elevenlabs.io/gibberlink) AI agents are prompted to chat about booking a hotel (one as a caller, one as a receptionist)
+## How it works on locally (basedf on ggwave)
+* Two independent conversational VOICESURFER are prompted.
 * Both agents are prompted to switch to [ggwave](https://github.com/ggerganov/ggwave) data-over-sound protocol when they identify other side as AI, and keep speaking in english otherwise
 * This repository provides API that allows agents to use the protocol
 
