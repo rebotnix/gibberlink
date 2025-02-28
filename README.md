@@ -1,14 +1,15 @@
-# GibberLink official repo
+# GibberLink official repo for NVIDIA JETSON
 
 > [!Caution]
-> Scam projects circulate around impersonating this project and its creators. We don't sell anything including crypto, webinars, etc. This readme is the source of truth.
+> Scam projects circulate around impersonating this project and its creators. The original don't sell anything including crypto, webinars, etc. This readme is the source of truth.
 
 ## Demo
 [gbrl.ai](https://www.gbrl.ai/) — Agent2Agent conversation in your browser (use two devices)
-
 [youtube](https://www.youtube.com/watch?v=EtNagNezo8w) — Agents switching from english to ggwave, video:
 
 [![Agents switching from english to ggwave video](https://img.youtube.com/vi/EtNagNezo8w/maxresdefault.jpg)](https://www.youtube.com/watch?v=EtNagNezo8w)
+
+## Jetson fork is using an ATH crypto chip from microchip for authentification. 
 
 ## Authors
 
